@@ -12,7 +12,7 @@ Creator of 👣 **dustdb** and **Yag**
 
 ---
 ## 🛠️ Tech Stack  
-<p align="center">
+<p align="left">
   <!-- Elixir -->
   <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="60" height="60"/>
   <!-- Phoenix -->
