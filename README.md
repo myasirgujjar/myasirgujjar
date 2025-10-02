@@ -11,14 +11,10 @@ Creator of 👣 **dustdb** and **Yag**
 "Elixir and Golang backend engineer specializing in fault-tolerant distributed systems and high-throughput APIs. From Rest to gRrpc. "
 
 ---
-
 ## 🛠️ Tech Stack  
-
 <p align="center">
   <!-- Elixir -->
-  
-<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="60" height="60"/>
-
+  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="60" height="60"/>
   <!-- Phoenix -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Phoenix" width="60" height="60"/>
   <!-- Golang -->
