@@ -1,6 +1,6 @@
 # ✋ Hi  
 
-Creator of 👣 **dustdb** and **Yag**  
+Creator of 👣 **dustdb** and **Yag**  ** **
 
 📚 See my blogs: [blog](https://dev.to/mr_yasir)  
 📫 Reach me: **helloyasir@proton.me**  
@@ -8,7 +8,7 @@ Creator of 👣 **dustdb** and **Yag**
 𝕏 On [Twitter](https://x.com/myasirdev)  
 
  
-"Elixir and Golang backend engineer specializing in fault-tolerant distributed systems and high-throughput APIs. From Rest to gRrpc. "
+"I Work on Elixir and Golang backend engineer specializing in fault-tolerant distributed systems and high-throughput APIs. Backends for Web or Mobile Apps From Rest to gRPC and in between. "
 
 ---
 ## 🛠️ Tech Stack  
