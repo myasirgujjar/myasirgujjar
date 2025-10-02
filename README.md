@@ -16,13 +16,15 @@ Creator of 👣 **dustdb** and **Yag**
 
 <p align="center">
   <!-- Elixir -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="60" height="60"/>
+  
+<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="Elixir" width="60" height="60"/>
+
   <!-- Phoenix -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="Phoenix" width="60" height="60"/>
   <!-- Golang -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="60" height="60"/>
   <!-- Gin -->
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/>
   <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
   <!-- Kubernetes -->
