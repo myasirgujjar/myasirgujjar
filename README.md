@@ -1,6 +1,6 @@
 # ✋ Hi  
 
-Creator of 👣 **DustDb** and **Yag**  **Shrike**
+Creator of 👣 **DustDb** , **Yag** , **Shrike**
 
 📚 See my blogs: [blog](https://dev.to/mr_yasir)  
 📫 Reach me: **helloyasir@proton.me**  
