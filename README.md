@@ -2,7 +2,7 @@
 
 Creator of 👣 **dustdb** and **Yag**  
 
-📚 See my blogs: [blog](#)  
+📚 See my blogs: [blog](https://dev.to/mr_yasir)  
 📫 Reach me: **helloyasir@proton.me**  
 ⚡ Available on [Upwork](https://www.upwork.com/freelancers/~0134f4c054f96f8850)  
 𝕏 On [Twitter](https://x.com/myasirdev)  
