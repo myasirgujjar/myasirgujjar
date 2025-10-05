@@ -36,7 +36,7 @@
 
 <p align="center">
    <!-- Rust -->
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a0bb228b-fc57-4910-aaad-d241ebc29ce8" />
+ <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b32a65a0-4faf-4ba7-86d1-21322cbf6e8d" />
 
   <!-- Actix -->
   <img src="https://avatars.githubusercontent.com/u/72592977?s=200&v=4" alt="Tokio" width="60" height="60"/>
