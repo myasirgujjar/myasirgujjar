@@ -38,23 +38,22 @@
   
   <!-- Rust -->
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e5558bfb-6123-4b85-9a4f-3556b3090a61" />
-
-  <!-- Axum -->
-<img width="60" height="60" alt="Axum" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" />
   <!-- Actix web -->
   <img width="60" height="60" alt="actix web" src="https://actix.rs/img/logo-icon.png" />
-
+  <!-- Axum -->
+<img width="60" height="60" alt="Axum" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" />
   <!-- Warp  -->
- <img width="60" height="60" alt="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" />
+ <img width="90" height="90" alt="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" />
 
   <!-- Golang -->
-  <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/db69fdf2-4c08-4cbb-81b0-72a775a3e7d4" />
+  <img width="70" height="90" alt="image" src="https://github.com/user-attachments/assets/db69fdf2-4c08-4cbb-81b0-72a775a3e7d4" />
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/>
   <!-- Fiber -->
-  <img src="https://avatars.githubusercontent.com/u/55409017?s=200&v=4" alt="Fiber" width="60" height="60"/>
-  <!-- GORM -->
-  <img src="https://avatars.githubusercontent.com/u/88247359?s=200&v=4" alt="GORM" width="60" height="60"/>
+  <img src="https://avatars.githubusercontent.com/u/59947262?s=48&v=4" alt="Fiber" width="60" height="60"/>
+  <!-- SQL -->
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/0ddf4e30-0291-49eb-80fc-db2a8e42a920" />
+  
   <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
   <!-- Kubernetes -->
