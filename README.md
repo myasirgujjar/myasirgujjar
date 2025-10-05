@@ -36,16 +36,15 @@
 
 <p align="center">
    <!-- Kotlin -->
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dbeb7248-3366-45ff-93bb-dbcaed86a6bc" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dbeb7248-3366-45ff-93bb-dbcaed86a6bc" />
 
-  <!-- Actix -->
-  <img src="https://avatars.githubusercontent.com/u/72592977?s=200&v=4" alt="Tokio" width="60" height="60"/>
-  
-  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c0576e0-1869-48e3-b36b-8784c689ecb6" />
-  <!-- Axum -->
-  <img src="https://avatars.githubusercontent.com/u/91359158?s=200&v=4" alt="Axum" width="60" height="60"/>
-  <!-- Tokio -->
-  <img src="https://avatars.githubusercontent.com/u/72592977?s=200&v=4" alt="Tokio" width="60" height="60"/>
+  <!-- java -->
+ <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d6e636ef-60da-459b-9f80-bcb5a9283982" />
+
+  <!-- Spring Boot -->
+ <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/98b73d76-094f-4ba5-bc82-9fa60c1e5cf1" />
+
+ 
   <!-- SeaORM -->
   <img src="https://www.sea-ql.org/assets/img/logo/sea-orm.svg" alt="SeaORM" width="60" height="60"/>
   <!-- Golang -->
@@ -73,15 +72,15 @@
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-yasir&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-yasir&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-yasir&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-yasir&layout=compact&theme=tokyonight&hide_border=false" height="180" />
 </p>
 
 ---
 
 ## 💡 Motto
 
-> “**Performance. Safety. Concurrency — built right.**” ⚡  
+> “**Performent. Lightweight.**” ⚡  
 
 ---
 
