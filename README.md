@@ -7,8 +7,8 @@
 <p align="center">
   Creator of <b>DustDB</b> • <b>Yag</b> • <b>Shrike</b>  
   <br/>
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" height="200" alt="muhammad yasir" />
-  <⚙️ Backend Engineer building <b>high-performance, fault-tolerant</b> systems in <b>Golang 🐹</b>& Rust</b>  
+  
+  <b>⚙️ Backend Engineer building </b><b>high-performance, fault-tolerant</b> systems in <b>Golang 🐹</b>& Rust</b>  
 </p>
 
 <p align="center">
