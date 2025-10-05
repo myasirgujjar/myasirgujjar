@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+## <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Loading-red-spot.gif?20190724060128" height="60" alt="about me" /> About Me
 
 > I craft **production-grade distributed systems**, **real-time APIs**, and **microservice architectures**  
 > using  **Rust** and **Golang**— designed for **scalability, concurrency**, and **resilience**.  
