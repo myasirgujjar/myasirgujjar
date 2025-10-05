@@ -22,7 +22,7 @@
 ## 🧠 About Me
 
 > I craft **production-grade distributed systems**, **real-time APIs**, and **microservice architectures**  
-> using  **Golang** and **Elixir**— designed for **scalability, concurrency**, and **resilience**.  
+> using  **Rust** and **Golang**— designed for **scalability, concurrency**, and **resilience**.  
 >  
 > 🚀 I focus on:
 > - Low-latency backend services  
@@ -32,14 +32,20 @@
 
 ---
 
-## 🦀⚙️ Tech Stack — Elixir, phoenix & Golang
+## 🦀⚙️ Tech Stack — Rust & Golang
 
 <p align="center">
   
-  <!-- Elixir -->
-  <img width="60" height="60" alt="elixir" src="https://github.com/user-attachments/assets/ac5f1da0-356b-44b5-9bc6-d836d906793a" />
-  <!-- Phoenix -->
- <img width="60" height="60" alt="phoenix" src="https://github.com/user-attachments/assets/610c7491-7e32-4e8c-9c42-e82da8835bec" />
+  <!-- Rust -->
+  <img width="60" height="60" alt="rust" src="https://github.com/user-attachments/assets/ac5f1da0-356b-44b5-9bc6-d836d906793a" />
+  <!-- Axum -->
+<img width="60" height="60" alt="Axum" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" />
+  <!-- Actix web -->
+  <img width="60" height="60" alt="actix web" src="https://github.com/user-attachments/assets/4762817d-e2c8-4684-81d5-923e8a28f9ae" />
+
+" />
+  <!-- Warp  -->
+ <img width="60" height="60" alt="Warp" src="https://avatars.githubusercontent.com/u/71840468?s=200&v=4" />
 
   <!-- Golang -->
   <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/db69fdf2-4c08-4cbb-81b0-72a775a3e7d4" />
