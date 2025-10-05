@@ -37,7 +37,8 @@
 <p align="center">
   
   <!-- Rust -->
-  <img width="60" height="60" alt="rust" src="https://github.com/user-attachments/assets/ac5f1da0-356b-44b5-9bc6-d836d906793a" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e5558bfb-6123-4b85-9a4f-3556b3090a61" />
+
   <!-- Axum -->
 <img width="60" height="60" alt="Axum" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" />
   <!-- Actix web -->
@@ -45,7 +46,7 @@
 
 " />
   <!-- Warp  -->
- <img width="60" height="60" alt="Warp" src="https://avatars.githubusercontent.com/u/71840468?s=200&v=4" />
+ <img width="60" height="60" alt="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" />
 
   <!-- Golang -->
   <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/db69fdf2-4c08-4cbb-81b0-72a775a3e7d4" />
