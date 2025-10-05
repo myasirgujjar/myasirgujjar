@@ -19,7 +19,7 @@
 
 ---
 
- ## <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Loading-red-spot.gif" height="60" alt="about me" />  About Me
+ ## <img src="https://i.pinimg.com/originals/ba/dc/74/badc74ced38f8aa000d067a72d2f0465.gif" height="60" alt="about me" />  About Me
 
 > I craft **production-grade distributed systems**, **real-time APIs**, and **microservice architectures**  
 > using  **Rust** and **Golang**— designed for **scalability, concurrency**, and **resilience**.  
@@ -32,7 +32,7 @@
 
 ---
 
-## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60"  alt="tech stack" />Tech Stack — Rust & Golang
+## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="70"  alt="tech stack" />Tech Stack — Rust & Golang
 
 <p align="center">
   
