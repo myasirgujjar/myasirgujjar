@@ -80,7 +80,7 @@
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif"  height="60" alt="motto"/> Motto
+## <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif"  height="40" alt="motto"/> Motto
 
 > “**Performent. Lightweight.**” ⚡  
 
