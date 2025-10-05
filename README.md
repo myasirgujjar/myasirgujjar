@@ -19,7 +19,7 @@
 
 ---
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Loading-red-spot.gif" height="60" alt="about me" /> ## About Me
+ ## <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Loading-red-spot.gif" height="60" alt="about me" />  About Me
 
 > I craft **production-grade distributed systems**, **real-time APIs**, and **microservice architectures**  
 > using  **Rust** and **Golang**— designed for **scalability, concurrency**, and **resilience**.  
@@ -80,7 +80,7 @@
 
 ---
 
-## <img src="https://media.baamboozle.com/uploads/images/285061/1647525575_817634_gif-url.gif"  height="60" alt="motto"/> Motto
+## <img src="https://i.pinimg.com/originals/94/47/79/9447792750c9b5a23825b2d1018cc5ea.gif"  height="60" alt="motto"/> Motto
 
 > “**Performent. Lightweight.**” ⚡  
 
