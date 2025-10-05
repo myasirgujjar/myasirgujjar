@@ -35,8 +35,8 @@
 ## 🦀⚙️ Tech Stack — Rust & Golang
 
 <p align="center">
-   <!-- Rust -->
- <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b32a65a0-4faf-4ba7-86d1-21322cbf6e8d" />
+   <!-- Kotlin -->
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dbeb7248-3366-45ff-93bb-dbcaed86a6bc" />
 
   <!-- Actix -->
   <img src="https://avatars.githubusercontent.com/u/72592977?s=200&v=4" alt="Tokio" width="60" height="60"/>
