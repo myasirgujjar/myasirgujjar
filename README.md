@@ -42,9 +42,8 @@
   <!-- Axum -->
 <img width="60" height="60" alt="Axum" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" />
   <!-- Actix web -->
-  <img width="60" height="60" alt="actix web" src="https://github.com/user-attachments/assets/4762817d-e2c8-4684-81d5-923e8a28f9ae" />
+  <img width="60" height="60" alt="actix web" src="https://actix.rs/img/logo-icon.png" />
 
-" />
   <!-- Warp  -->
  <img width="60" height="60" alt="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" />
 
