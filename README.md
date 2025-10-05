@@ -38,7 +38,7 @@
   <!-- Rust -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="60" height="60"/>
   <!-- Actix -->
-  <img src="https://raw.githubusercontent.com/actix/actix-website/master/static/logo.svg" alt="Actix" width="60" height="60"/>
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c0576e0-1869-48e3-b36b-8784c689ecb6" />
   <!-- Axum -->
   <img src="https://avatars.githubusercontent.com/u/91359158?s=200&v=4" alt="Axum" width="60" height="60"/>
   <!-- Tokio -->
