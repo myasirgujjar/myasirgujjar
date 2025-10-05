@@ -7,7 +7,7 @@
 <p align="center">
   Creator of <b>DustDB</b> • <b>Yag</b> • <b>Shrike</b>  
   <br/>
-  ⚙️ Backend Engineer building <b>high-performance, fault-tolerant</b> systems in <b>Golang 🐹</b>🦀</b>  
+  ⚙️ Backend Engineer building <b>high-performance, fault-tolerant</b> systems in <b>Golang 🐹</b>& Rust</b>  
 </p>
 
 <p align="center">
@@ -38,15 +38,17 @@
   
   <!-- Rust -->
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e5558bfb-6123-4b85-9a4f-3556b3090a61" />
+    <!-- Golang -->
+  <img width="70" height="700"  alt="image" src="https://github.com/user-attachments/assets/db69fdf2-4c08-4cbb-81b0-72a775a3e7d4" />
+   <!-- Warp  -->
+ <img width="70" height="70" alt="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" />
   <!-- Actix web -->
   <img width="60" height="60" alt="actix web" src="https://actix.rs/img/logo-icon.png" />
   <!-- Axum -->
 <img width="60" height="60" alt="Axum" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" />
-  <!-- Warp  -->
- <img width="90" height="90" alt="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" />
+ 
 
-  <!-- Golang -->
-  <img width="70" height="90" alt="image" src="https://github.com/user-attachments/assets/db69fdf2-4c08-4cbb-81b0-72a775a3e7d4" />
+ 
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/>
   <!-- Fiber -->
