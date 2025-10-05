@@ -32,7 +32,7 @@
 
 ---
 
-## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="70" /> 🦀⚙️ Tech Stack — Rust & Golang
+## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60"  alt="tech stack" />Tech Stack — Rust & Golang
 
 <p align="center">
   
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Highlights
+## <img src="https://camo.githubusercontent.com/14f6baf4d2148fb61f9f147cde2158014ccf1e5fc3014648078627c0819fa182/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578635842315a576f7a4e54646e64576f7859335632627a646f59545a705a6e70705a6e6c7061474a7861336475615455345a6d6b7763695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f78554137614f333734307365727747477a652f67697068792e676966" height="60" alt="highlights" />GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-yasir&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
@@ -80,7 +80,7 @@
 
 ---
 
-## 💡 Motto
+## <img src="https://media.baamboozle.com/uploads/images/285061/1647525575_817634_gif-url.gif"  height="60" alt="motto"/> Motto
 
 > “**Performent. Lightweight.**” ⚡  
 
