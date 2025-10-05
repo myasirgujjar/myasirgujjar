@@ -39,7 +39,8 @@
   <!-- Rust -->
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/e5558bfb-6123-4b85-9a4f-3556b3090a61" />
     <!-- Golang -->
-  <img width="90" height="90"  alt="image" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/96146918-eb7b-40e5-be98-16ba273e9683" />
+  
    <!-- Warp  -->
  <img width="70" height="70" alt="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png" />
   <!-- Actix web -->
