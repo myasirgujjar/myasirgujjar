@@ -7,7 +7,7 @@
 <p align="center">
   Creator of <b>DustDB</b> • <b>Yag</b> • <b>Shrike</b>  
   <br/>
-  ⚙️ Backend Engineer building <b>high-performance, fault-tolerant</b> systems in <b>Golang 🐹</b> and <b>Rust 🦀</b>  
+  ⚙️ Backend Engineer building <b>high-performance, fault-tolerant</b> systems in <b>Golang 🐹</b>🦀</b>  
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ## 🧠 About Me
 
 > I craft **production-grade distributed systems**, **real-time APIs**, and **microservice architectures**  
-> using **Rust** and **Golang** — designed for **scalability, concurrency**, and **resilience**.  
+> using  **Golang** — designed for **scalability, concurrency**, and **resilience**.  
 >  
 > 🚀 I focus on:
 > - Low-latency backend services  
@@ -35,20 +35,10 @@
 ## 🦀⚙️ Tech Stack — Rust & Golang
 
 <p align="center">
-   <!-- Kotlin -->
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dbeb7248-3366-45ff-93bb-dbcaed86a6bc" />
 
-  <!-- java -->
- <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d6e636ef-60da-459b-9f80-bcb5a9283982" />
-
-  <!-- Spring Boot -->
- <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/98b73d76-094f-4ba5-bc82-9fa60c1e5cf1" />
-
- 
-  <!-- SeaORM -->
-  <img src="https://www.sea-ql.org/assets/img/logo/sea-orm.svg" alt="SeaORM" width="60" height="60"/>
   <!-- Golang -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="60" height="60"/>
+  <img src="<img width="369" height="137" alt="image" src="https://github.com/user-attachments/assets/db69fdf2-4c08-4cbb-81b0-72a775a3e7d4" />
+" alt="Golang" width="60" height="60"/>
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/>
   <!-- Fiber -->
