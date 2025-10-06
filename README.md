@@ -45,7 +45,8 @@
   <!-- Fiber -->
   <img src="https://avatars.githubusercontent.com/u/59947262?s=48&v=4" alt="Fiber" width="60" height="60"/>
   <!-- gRPC -->
-  <img src="https://cdn.worldvectorlogo.com/logos/grpc-1.svg" alt="gRPC" width="60" height="60"/>
+  <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/d29ca55f-b562-41d0-a02d-3df0016d4485" />
+
   <!-- SQL -->
   <img width="60" height="60" alt="SQL" src="https://github.com/user-attachments/assets/0ddf4e30-0291-49eb-80fc-db2a8e42a920" />
   <!-- Redis -->
