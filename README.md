@@ -43,17 +43,13 @@
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/>
 <!-- Gorilla Mux -->
-  <img src="https://avatars.githubusercontent.com/u/489566?s=48&v=4" alt="gorilla mux" width="60" height="60" />
-  
+  <img src="https://avatars.githubusercontent.com/u/489566?s=48&v=4" alt="gorilla mux" width="60" height="60" />  
   <!-- Fiber -->
   <img src="https://avatars.githubusercontent.com/u/59947262?s=48&v=4" alt="Fiber" width="60" height="60"/>
   <!-- gRPC -->
-  
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/92f227f3-675c-4d47-ad6b-33d7d04dc5cb" />
-
   <!--- RabbitMQ --->
-  <img width="60" height="60" alt="rabbitmq" src="https://github.com/user-attachments/assets/868d16e8-b17b-48c9-94f4-dfd1b2974074" />
-
+  <img width="60" height="60" alt="rabbitmq" src="https://github.com/user-attachments/assets/45ef3935-9552-4623-88c2-6f9c609ef0d2" />
   <!-- SQL -->
   <img width="60" height="60" alt="SQL" src="https://github.com/user-attachments/assets/0ddf4e30-0291-49eb-80fc-db2a8e42a920" />
   <!-- Redis -->
