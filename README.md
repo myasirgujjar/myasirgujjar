@@ -30,7 +30,7 @@
 > - Low-latency backends that scale gracefully  
 > - Cloud-native services (K8s + Docker)  
 > - High-throughput data & messaging systems  
-> - Observability, metrics, and graceful shutdowns  
+> - Observability, metrics, and caching
 
 ---
 
@@ -42,6 +42,10 @@
   <img width="60" height="60" alt="Golang" src="https://github.com/user-attachments/assets/96146918-eb7b-40e5-be98-16ba273e9683" />
   <!-- Gin -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/>
+<!-- Gorilla Mux -->
+  <img src="https://private-user-images.githubusercontent.com/53367916/255967639-d92caabf-98e0-473e-bfbf-ab554ba435e5.png?
+jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk3OTM2OTUsIm5iZiI6MTc1OTc5MzM5NSwicGF0aCI6Ii81MzM2NzkxNi8yNTU5Njc2MzktZDkyY2FhYmYtOThlMC00NzNlLWJmYmYtYWI1NTRiYTQzNWU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDA2VDIzMjk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4ZmYxMDQ2NDE1ODExMmI0ZjQ2NGUyZDY5NGMzZTM2ODdjNDEzMmU5YmRiNzQzMjYzMDA5MTRhYTNmYjY5NWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oV5iXF1V5pdTpsLePGRUWkp-WNk61ZamQm2fAHDbGbA" alt="gorilla mux" width="60" height="60" />
+  
   <!-- Fiber -->
   <img src="https://avatars.githubusercontent.com/u/59947262?s=48&v=4" alt="Fiber" width="60" height="60"/>
   <!-- gRPC -->
