@@ -48,7 +48,11 @@
   <!-- Fiber -->
   <img src="https://avatars.githubusercontent.com/u/59947262?s=48&v=4" alt="Fiber" width="60" height="60"/>
   <!-- gRPC -->
-  <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/d29ca55f-b562-41d0-a02d-3df0016d4485" />
+  
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/92f227f3-675c-4d47-ad6b-33d7d04dc5cb" />
+
+  <!--- RabbitMQ --->
+  <img width="60" height="60" alt="rabbitmq" src="https://github.com/user-attachments/assets/868d16e8-b17b-48c9-94f4-dfd1b2974074" />
 
   <!-- SQL -->
   <img width="60" height="60" alt="SQL" src="https://github.com/user-attachments/assets/0ddf4e30-0291-49eb-80fc-db2a8e42a920" />
