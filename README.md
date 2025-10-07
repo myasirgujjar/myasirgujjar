@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://media.tenor.com/Yj4grvIBitkAAAAM/jake-is.gif" height="70" width="70" alt="hello"/>  
+  <img src="https://media.tenor.com/Yj4grvIBitkAAAAM/jake-is.gif" height="60" width="60" alt="hello"/>  
   , I'm <strong>Yasir</strong> 👋  
 </h1>
 
@@ -40,7 +40,7 @@
   <img width="70" height="70" alt="rust" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" />
 
   <!-- Axum -->
-  <img src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" alt="Axum" width="64" height="64" style="margin:8px"/>
+  <img src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" alt="Axum" width="60" height="60" style="margin:8px"/>
   <!-- Actix Web -->
   <img src="https://actix.rs/img/logo.png" alt="Actix Web"  alt="actix web" width="64" height="64" style="margin:8px"/>
   <!-- Tonic (gRPC) -->
