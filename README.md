@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" height="40" width="40" alt="hello"/>  
+  <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" height="100" width="100" alt="hello"/>  
   , I'm <strong>Yasir</strong> 👋  
 </h1>
 
