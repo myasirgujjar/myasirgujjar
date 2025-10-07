@@ -35,7 +35,7 @@
 
 ## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Tech Stack — Rust & Systems
 
-<p align="center">
+<p align="left">
   <!-- Rust -->
   <img width="70" height="70" alt="image" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" />
 
@@ -51,6 +51,10 @@
   <img src="https://www.sea-ql.org/SeaORM/img/SeaQL.png" alt="SeaORM" width="64" height="64" style="margin:8px"/>
   <!-- Redis -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="64" height="64" style="margin:8px"/>
+ 
+ <!-- RabbitMQ -->
+ <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/97e2bfee-d732-480c-9135-30ee94d922f4" />
+
   <!-- Kafka -->
   <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Kafka" width="64" height="64" style="margin:8px"/>
   <!-- Docker -->
