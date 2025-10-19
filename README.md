@@ -1,14 +1,14 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://media.tenor.com/Yj4grvIBitkAAAAM/jake-is.gif" height="60" width="60" alt="hello"/>  
+<img src="https://media.tenor.com/Yj4grvIBitkAAAAM/jake-is.gif" height="60" width="60" alt="hello"/>  
   , I'm <strong>Yasir</strong> 👋  
 </h1>
 
 <p align="center">
-  Creator of <b>DustDB</b> • <b>Yag</b> • <b>Shrike</b>  
+  Creator of <b>GopherDB</b> • <b>Falcon</b> • <b>Orca</b>  
   <br/><br/>
-  <strong>⚙️ Backend Engineer</strong> — crafting <strong>high-performance</strong>, <strong>memory-safe</strong>, and <strong>fearlessly concurrent</strong> systems in  
-  <strong>Rust 🦀</strong> — where <em>performance meets safety</em>.
+  <strong>⚙️ Backend Engineer</strong> — crafting <strong>high-performance</strong>, <strong>concurrent</strong>, and <strong>robust</strong> systems in  
+  <strong>Golang 🐹</strong> — where <em>simplicity meets scalability</em>.
 </p>
 
 <p align="center">
@@ -23,38 +23,32 @@
 ## <img src="https://i.pinimg.com/originals/ba/dc/74/badc74ced38f8aa000d067a72d2f0465.gif" height="52" alt="about me" /> About Me
 
 > 🧩 I don’t just write code — I design systems that hum.  
-> I deliver production-grade distributed backends, real-time APIs, microservices, system software's and libraies using Rust's speed and safety.
+> I deliver production-grade distributed backends, real-time APIs, microservices, and system software using Go’s simplicity and concurrency.
 >
 > **Specialties**
-> - Low-latency async services (Tokio / async Rust)  
-> - Fault-tolerant distributed systems & event-driven design  
-> - High-throughput messaging and efficient caching  
-> - Observability, metrics, and operational handoffs
+> - High-performance, concurrent services (Goroutines & Channels)  
+> - Scalable microservices & REST/gRPC APIs  
+> - Distributed systems & event-driven architecture  
+> - Observability, metrics, and robust operational handoffs
 
 ---
 
-## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Tech Stack — Rust & Systems
+## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Tech Stack — Go & Systems
 
 <p align="left">
-  <!-- Rust -->
-  <img width="70" height="70" alt="rust" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" />
+  <!-- Golang -->
+  <img width="70" height="70" alt="golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 
-  <!-- Axum -->
-  <img src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" alt="Axum" width="60" height="60" style="margin:8px"/>
-  <!-- Actix Web -->
-  <img src="https://actix.rs/img/logo.png" alt="Actix Web"  alt="actix web" width="64" height="64" style="margin:8px"/>
-  <!-- Tonic (gRPC) -->
-  <img src="https://avatars.githubusercontent.com/u/8730506?s=48&v=4" alt="Tonic" width="90" height="64" style="margin:8px"/>
-  <!-- SQLx -->
-  <img src="https://avatars.githubusercontent.com/u/10077001?s=48&v=4" alt="SQLx" width="64" height="64" style="margin:8px"/>
-  <!-- SeaORM -->
-  <img src="https://www.sea-ql.org/SeaORM/img/SeaQL.png" alt="SeaORM" width="64" height="64" style="margin:8px"/>
+  <!-- Gin -->
+  <img src="https://avatars.githubusercontent.com/u/15152911?s=200&v=4" alt="Gin" width="64" height="64" style="margin:8px"/>
+  <!-- Echo -->
+  <img src="https://echo.labstack.com/logo.png" alt="Echo" width="64" height="64" style="margin:8px"/>
+  <!-- gRPC -->
+  <img src="https://avatars.githubusercontent.com/u/8730506?s=48&v=4" alt="gRPC" width="64" height="64" style="margin:8px"/>
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" style="margin:8px"/>
   <!-- Redis -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="64" height="64" style="margin:8px"/>
- 
- <!-- RabbitMQ -->
- <img width="65" height="60" alt="rabbitmq" src="https://github.com/user-attachments/assets/97e2bfee-d732-480c-9135-30ee94d922f4" />
-
   <!-- Kafka -->
   <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Kafka" width="64" height="64" style="margin:8px"/>
   <!-- Docker -->
@@ -63,13 +57,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="64" height="64" style="margin:8px"/>
 </p>
 
-
+---
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" height="24" alt="motto" /> Motto
 
-> **“ Blazingly Fast. Safe. Fearless.”** ⚙️  
-> — building systems that run reliably in the wild.
+> **“Fast. Reliable. Concurrent.”** ⚙️  
+> — building systems that scale effortlessly.
 
 <p align="center">
-  <i>💬 Let’s build something scalable with cargo </i>
+  <i>💬 Let’s build something scalable with Go</i>
 </p>
