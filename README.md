@@ -40,11 +40,13 @@
   <img width="70" height="70" alt="golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 
   <!-- Gin -->
-  <img src="https://avatars.githubusercontent.com/u/15152911?s=200&v=4" alt="Gin" width="64" height="64" style="margin:8px"/>
-  <!-- Echo -->
-  <img src="https://echo.labstack.com/logo.png" alt="Echo" width="64" height="64" style="margin:8px"/>
+  <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" alt="Gin" width="64" height="64" style="margin:8px"/>
+  <!-- Gorilla Mux -->
+  <img src="https://private-user-images.githubusercontent.com/53367916/255967639-d92caabf-98e0-473e-bfbf-ab554ba435e5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA4NjQ2MTQsIm5iZiI6MTc2MDg2NDMxNCwicGF0aCI6Ii81MzM2NzkxNi8yNTU5Njc2MzktZDkyY2FhYmYtOThlMC00NzNlLWJmYmYtYWI1NTRiYTQzNWU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDE5VDA4NTgzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNjRhODAzZTNiOTBkYWY0OWYwYmE0Y2U3NTkxM2NmYzQ3YWMxZGQzMDE0NDEwMTliNWZhYmIzMzMwYmU2OWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bRZjMxm89bh02OHm_srVpW5U2p0cE7xk49xrw1U4dTA" alt="Echo" width="60" height="60" style="margin:8px"/>
   <!-- gRPC -->
-  <img src="https://avatars.githubusercontent.com/u/8730506?s=48&v=4" alt="gRPC" width="64" height="64" style="margin:8px"/>
+  <<img width="65" height="65" alt="grpc" src="https://github.com/user-attachments/assets/0e937586-aada-4a5a-b243-0e13a03634f5" />
+
+
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" style="margin:8px"/>
   <!-- Redis -->
@@ -55,6 +57,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="64" height="64" style="margin:8px"/>
   <!-- Kubernetes -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="64" height="64" style="margin:8px"/>
+  <!-- Linux -->
+  <img width="65" height="65" alt="arch linux" src="https://github.com/user-attachments/assets/56c24149-d559-49d4-afed-1395908a28ba" />
+  <!-- Vim -->
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/f46bacc6-e530-48bf-a9cd-9bceaed065cc" />
+
 </p>
 
 ---
