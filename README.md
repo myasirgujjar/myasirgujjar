@@ -20,7 +20,7 @@
 
 ---
 
-> 🚀 **Migrated to [GitLab 🔗](http://gitlab.com/yasirdevloper9@gmail.com)**  
+> 🚀 **Migrated to [GitLab 🔗](http://gitlab.com/yasirdevloper9)**  
 > — Find my latest Rust projects and backend systems there.
 
 ---
