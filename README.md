@@ -47,7 +47,7 @@
   <img width="70" height="70" alt="rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
 
   <!-- Actix Web -->
-  <img width="64" height="64" alt="actix web" src="https://actix.rs/img/logo-icon.png" style="margin:8px"/>
+  <img width="70" height="70" alt="actix web" src="https://actix.rs/img/logo-icon.png" style="margin:8px"/>
 
   <!-- Axum -->
   <img width="64" height="64" alt="axum" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" style="margin:8px"/>
