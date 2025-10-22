@@ -44,6 +44,8 @@
 ## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Tech Stack — Go 🐹 Systems
 
 <p align="left">
+    <!-- Zig -->
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/9c91631e-407f-44b2-90c7-b097d1bc7540" />
 
   <!-- Go -->
   <img width="70" height="70" alt="golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
