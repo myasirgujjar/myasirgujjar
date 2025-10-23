@@ -48,6 +48,7 @@
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/9c91631e-407f-44b2-90c7-b097d1bc7540" />
 
   <!-- Go -->
+  
   <img width="70" height="70" alt="golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 
   <!-- Gin-Gonic -->
@@ -72,6 +73,11 @@
 
   <!-- Kubernetes -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="64" height="64" style="margin:8px"/>
+<!-- Grafana -->
+  <img width="64" height="64" alt="graphana" src="https://github.com/user-attachments/assets/c91a02d3-e67a-4262-b0c6-51ea3d9a4835" />
+<!-- Prometheus -->
+<img width="64" height="64" alt="prometheus" src="https://github.com/user-attachments/assets/1627a9ea-ed21-4194-8749-8d28d07d6b32" />
+
 
   <!-- Linux -->
   <img width="65" height="65" alt="linux" src="https://github.com/user-attachments/assets/56c24149-d559-49d4-afed-1395908a28ba" />
