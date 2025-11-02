@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Creator of <b>CactusDB</b> • <b>Asirnet</b> • <b>Aryol</b> • <b>Noodlejs</b> • <b>Cloudlet</b> • <b>SilKarta</b>  
+  Creator of <b>CactusDB</b> • <b>Asirnet</b> • <b>Noodlejs</b> • <b>Cloudlet</b> 
   <br/><br/>
   <strong>⚙️ SDE III — Senior Rust Engineer</strong> — designing <strong>concurrent</strong>, <strong>fault-tolerant</strong>, and <strong>blazing-fast</strong> backend systems in  
   <strong>Rust 🦀</strong> — where <em>memory safety meets high performance</em>.
@@ -40,7 +40,7 @@
 
 ---
 
-## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Tech Stack — Rust 🦀 Systems
+## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Toolchain - Tech Stack 🛠
 
 <p align="left">
     <!-- C -->
