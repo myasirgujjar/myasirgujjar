@@ -43,14 +43,17 @@
 ## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Tech Stack — Rust 🦀 Systems
 
 <p align="left">
+    <!-- C -->
+  <img width="75" height="75" alt="C" src="https://cdn.iconscout.com/icon/free/png-512/free-c-icon-svg-download-png-1175191.png?f=webp&w=256" />
+
   <!-- Rust -->
-  <img width="70" height="70" alt="rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
+  <img width="80" height="80" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GDMY-B2cGNw4O8RQnaOntHXXI5b8hWOZbQ&s" />
 
   <!-- Tokio -->
-  <img width="70" height="70" alt="tokio" src="https://avatars.githubusercontent.com/u/30462096?s=200&v=4" />
+  <img width="60" height="60" alt="tokio" src="https://avatars.githubusercontent.com/u/20248544?s=48&v=4" />
 
-  <!-- Axum -->
-  <img width="70" height="70" alt="axum" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
+  <!-- Actix -->
+  <img width="70" height="70" alt="Actix web" src="https://actix.rs/img/logo.png" />
 
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" style="margin:8px"/>
@@ -73,8 +76,6 @@
   <!-- Prometheus -->
   <img width="64" height="64" alt="prometheus" src="https://github.com/user-attachments/assets/1627a9ea-ed21-4194-8749-8d28d07d6b32" />
 
-  <!-- Grafana -->
-  <img width="64" height="64" alt="grafana" src="https://github.com/user-attachments/assets/c91a02d3-e67a-4262-b0c6-51ea3d9a4835" />
 
   <!-- Linux -->
   <img width="65" height="65" alt="linux" src="https://github.com/user-attachments/assets/56c24149-d559-49d4-afed-1395908a28ba" />
