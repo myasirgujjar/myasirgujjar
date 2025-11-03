@@ -7,7 +7,7 @@
 <p align="center">
   Creator of <b>SokolOS</b> • <b>Asirnet</b> • <b>CactusDB</b> • <b>Klushlang</b> 
   <br/><br/>
-  <strong>⚙️ SDE III — Senior Rust Engineer</strong> — designing <strong>concurrent</strong>, <strong>fault-tolerant</strong>, and <strong>blazing-fast</strong> backend systems in  
+  <strong>⚙️ Principal Rust Engineer</strong> — designing <strong>concurrent</strong>, <strong>fault-tolerant</strong>, and <strong>blazing-fast</strong> backend systems in  
   <strong>Rust 🦀</strong> — where <em>memory safety meets high performance</em>.
 </p>
 
@@ -28,7 +28,7 @@
 ## <img src="https://i.pinimg.com/originals/ba/dc/74/badc74ced38f8aa000d067a72d2f0465.gif" height="52" alt="about me" /> About Me
 
 > 🦀 I architect and build backend systems that are safe, fast, and designed for scale.  
-> As an **SDE III**, I focus on high-performance Rust backends, async runtimes, and resilient distributed infrastructure.
+> As an **Engineer**, I focus on high-performance Rust backends, async runtimes, and resilient distributed infrastructure.
 >
 > **Specialties**
 > - Systems & Runtime Engineering (Tokio, Axum, Actix)  
