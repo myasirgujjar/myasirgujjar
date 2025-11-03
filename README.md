@@ -43,8 +43,9 @@
 ## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Toolchain - Tech Stack 🛠
 
 <p align="left">
-    <!-- C -->
-  <img width="75" height="75" alt="C" src="https://cdn.iconscout.com/icon/free/png-512/free-c-icon-svg-download-png-1175191.png?f=webp&w=256" />
+    <!-- Zig -->
+<img width="75" height="75" alt="Zig" src="https://github.com/user-attachments/assets/ebbdd110-d8e3-4daa-936b-67d371b87b40" />
+
 
   <!-- Rust -->
   <img width="80" height="80" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GDMY-B2cGNw4O8RQnaOntHXXI5b8hWOZbQ&s" />
@@ -59,10 +60,7 @@
 
   <img width="70" height="90" alt="Diesel" src="https://camo.githubusercontent.com/ddc1d75ddba1c55a300b0021e8c1bfd2cbdbd4563fc044e26daf6ab5d3df9f6a/68747470733a2f2f64696573656c2e72732f6173736574732f696d616765732f64696573656c5f6c6f676f5f737461636b65645f626c61636b2e706e67" />
 
-  <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" style="margin:8px"/>
-
-  <!-- Redis -->
+   <!-- Redis -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="64" height="64" style="margin:8px"/>
 
   <!-- Kafka -->
