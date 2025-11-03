@@ -55,6 +55,10 @@
   <!-- Actix -->
   <img width="70" height="70" alt="Actix web" src="https://actix.rs/img/logo.png" />
 
+<!-- Diesel ORM -->
+
+  <img width="70" height="90" alt="Diesel" src="https://camo.githubusercontent.com/ddc1d75ddba1c55a300b0021e8c1bfd2cbdbd4563fc044e26daf6ab5d3df9f6a/68747470733a2f2f64696573656c2e72732f6173736574732f696d616765732f64696573656c5f6c6f676f5f737461636b65645f626c61636b2e706e67" />
+
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" style="margin:8px"/>
 
