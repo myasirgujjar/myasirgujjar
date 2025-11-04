@@ -7,7 +7,7 @@
 <p align="center">
   Creator of <b>SokolOS</b> • <b>Asirnet</b> • <b>CactusDB</b> • <b>Klushlang</b> 
   <br/><br/>
-  <strong>⚙️ Rust Developer /strong> — designing <strong>concurrent</strong>, <strong>fault-tolerant</strong>, and <strong>blazing-fast</strong> backend systems in  
+  <strong>⚙️ Rust Developer </strong> — designing <strong>concurrent</strong>, <strong>fault-tolerant</strong>, and <strong>blazing-fast</strong> backend systems in  
   <strong>Rust 🦀</strong> — where <em>memory safety meets high performance</em>.
 </p>
 
