@@ -20,7 +20,7 @@
 
 ---
 
-> 🚀 **!Now Migrated Permanently to [Gittea 🔗](https://gitea.com/myasir)**  
+> 🚀 **!Now Migrated Permanently to [GitLab 🔗](https://gitlab.com/yasirdevloper9)**  
 > — Explore my latest Rust-based backends, compilers, and distributed systems.
 
 ---
