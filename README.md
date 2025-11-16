@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  Creator of <b>SokolOS</b> • <b>Asirnet</b> • <b>CactusDB</b> • <b>Klushlang</b> 
+  Creator of <b>CactusDB</b> • <b>QuickPHP</b> •<b>Cloudlet</b> 
   <br/><br/>
-  <strong>⚙️ PHP Developer</strong> — building <strong>robust</strong>, <strong>scalable</strong>, and <strong>secure</strong> backend systems for  
-  <strong>SaaS businesses</strong> — where <em>reliability meets performance</em>.
+  <strong>⚙️ PHP Developer</strong> — building <strong>>Seo friendly </strong>, <strong>scalable</strong>, and <strong>secure</strong> backend systems for  
+  <strong>SaaS businesses</strong> — where <em>reliability meets Ease of use</em>.
 </p>
 
 <p align="center">
