@@ -8,7 +8,7 @@
   Creator of <b>CactusDB</b> • <b>Klushlang</b> •<b>Cloudlet</b> 
   <br/><br/>
   <strong>⚙️ Python & Go Developer</strong> — building <strong> Microservices  which are </strong>, <strong>scalable</strong>, and <strong>highly optimized </strong> for  
-  <strong>SaaS businesses</strong> — where <em>reliability meets Ease of use</em>.
+  <strong>SaaS businesses</strong> — where <em>reliability meets UX</em>.
 </p>
 
 <p align="center">
@@ -43,15 +43,17 @@
 <p align="left">
  
   <img width="700" height="800" alt="Python Django GO" src="https://camo.githubusercontent.com/82d4237abc015fe6dc76501069c11b348a73a5ca68018d493be5819267fe912c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c72656163742c6e6578746a732c6e6f64656a732c707974686f6e2c676f2c706f7374677265732c72656469732c646f636b65722c76657263656c2c636c6f7564666c617265267468656d653d6c69676874" style="margin-bottom:8px"/>
+
+  
   
 
 ---
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" height="24" alt="motto" /> Motto
 
-> **“Clean Code. Scalable SaaS. Robust PHP.”** ⚙️  
+> **“Clean Code. Scalable SaaS. Robust Systems.”** ⚙️  
 > — building backend systems for SaaS businesses that scale gracefully and perform reliably.
 
 <p align="center">
-  <i>💬 Let’s build your next SaaS product with PHP</i>
+  <i>💬 Let’s build your next SaaS product with Vim</i>
 </p>
