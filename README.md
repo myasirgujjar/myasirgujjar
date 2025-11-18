@@ -7,7 +7,7 @@
 <p align="center">
   Creator of <b>CactusDB</b> • <b>Klushlang</b> •<b>Cloudlet</b> 
   <br/><br/>
-  <strong>⚙️ Python & Go Developer</strong> — building <strong>>Seo friendly </strong>, <strong>scalable</strong>, and <strong>secure</strong> backend systems for  
+  <strong>⚙️ Python & Go Developer</strong> — building <strong> Microservices  which are </strong>, <strong>scalable</strong>, and <strong>highly optimized </strong> for  
   <strong>SaaS businesses</strong> — where <em>reliability meets Ease of use</em>.
 </p>
 
@@ -41,25 +41,9 @@
 ## <img src="https://i.pinimg.com/originals/95/f2/43/95f24363e310d115b83d8993aab903e6.gif" height="60" alt="tech stack" /> Toolchain - Tech Stack 🛠
 
 <p align="left">
-  <!-- PHP -->
-  <img width="80" height="80" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.png" style="margin-bottom:8px"/>
-  <!-- Laravel -->
-  <img width="60" height="60" alt="Laravel" src="https://github.com/user-attachments/assets/6e9d32cb-940b-4fcb-9282-8516e05fe8aa" style="margin:8px"/>
-  <!-- React -->
-  <img width="60" height="60" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin:8px"/>
-  <!-- MySQL -->
-  <img width="60" height="60" alt="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="margin:8px"/>
-  <!-- PostgreSQL -->
-  <img width="60" height="60" alt="PostgreSQL" src="https://www.postgresql.org/media/img/about/press/elephant.png" style="margin:8px"/>
-  <!-- Redis -->
-  <img width="60" height="60" alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" style="margin:8px"/>
-  <!-- Docker -->
-  <img width="60" height="60" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="margin:8px"/>
-  <!-- Linux -->
-  <img width="60" height="60" alt="Linux" src="https://images.icon-icons.com/2235/PNG/512/linux_os_logo_icon_134670.png" style="margin:8px"/>
-  <!-- Vim -->
-  <img width="60" height="60" alt="Vim" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" style="margin:8px"/>
-</p>
+ 
+  <img width="700" height="800" alt="Python Django GO" src="https://camo.githubusercontent.com/82d4237abc015fe6dc76501069c11b348a73a5ca68018d493be5819267fe912c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c72656163742c6e6578746a732c6e6f64656a732c707974686f6e2c676f2c706f7374677265732c72656469732c646f636b65722c76657263656c2c636c6f7564666c617265267468656d653d6c69676874" style="margin-bottom:8px"/>
+  
 
 ---
 
