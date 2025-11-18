@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  Creator of <b>CactusDB</b> • <b>QuickPHP</b> •<b>Cloudlet</b> 
+  Creator of <b>CactusDB</b> • <b>Klushlang</b> •<b>Cloudlet</b> 
   <br/><br/>
-  <strong>⚙️ PHP Developer</strong> — building <strong>>Seo friendly </strong>, <strong>scalable</strong>, and <strong>secure</strong> backend systems for  
+  <strong>⚙️ Python & Go Developer</strong> — building <strong>>Seo friendly </strong>, <strong>scalable</strong>, and <strong>secure</strong> backend systems for  
   <strong>SaaS businesses</strong> — where <em>reliability meets Ease of use</em>.
 </p>
 
@@ -27,14 +27,12 @@
 
 ## <img src="https://i.pinimg.com/originals/ba/dc/74/badc74ced38f8aa000d067a72d2f0465.gif" height="52" alt="about me" /> About Me
 
-> 💻 I architect and develop **Core PHP and Laravel backends** for SaaS applications.  
-> As a **PHP Engineer**, I focus on **API design, multi-tenant systems, and scalable SaaS platforms**.
->
+> 💻 I architect and develop **Golang Gin and Django backends** for SaaS applications.  
 > **Specialties**
-> - Core PHP & Laravel backend development  
+> - Python & Golang backend development  
 > - RESTful & GraphQL API design  
 > - Multi-tenant SaaS architecture & subscription management  
-> - Database optimization (MySQL, PostgreSQL, Redis)  
+> - Database optimization (MySQL, PostgreSQL, Redis, Kafka,Kubernetes and docker)  
 > - Secure and maintainable code practices  
 > - Cloud deployment, Docker, and scalable hosting  
 
