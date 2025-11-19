@@ -20,7 +20,7 @@
 
 ---
 
-> 🚀 **!Now Migrated Permanently to [GitLab](https://gitlab.com/yasirdevloper9)**  
+> 🚀 **!Now Migrated Permanently to [GitLab](https://gitlab.com/yasirdev)**  
 > — Explore my latest PHP-based SaaS backends and API systems.
 
 ---
@@ -34,7 +34,7 @@
 > - Multi-tenant SaaS architecture & subscription management  
 > - Database optimization (MySQL, PostgreSQL, Redis, Kafka,Kubernetes and docker)  
 > - Secure and maintainable code practices  
-> - Cloud deployment, Docker, and scalable hosting  
+> - Cloud deployment and scalable hosting  
 
 ---
 
